@@ -6,7 +6,7 @@ const { map } = require("@11ty/eleventy/src/TemplateGlob");
 const nuevaString = "hola soy una string";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 5;
+const nuevoNum = 9;
 
 // Crea una variable booleana:
 const nuevoBool = false;
